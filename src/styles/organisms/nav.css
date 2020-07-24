@@ -1,0 +1,13 @@
+.navigation {
+    grid-area: nav;
+    display: -webkit-inline-flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(8, 3, 87);
+    padding: 10px 15px;
+    height: 80px;
+    top: 170px;   
+    flex-wrap: wrap; 
+}
+
+

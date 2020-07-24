@@ -1,0 +1,43 @@
+/* Atoms */
+@import "../atoms/photo-image.css";
+@import "../atoms/nav/item-link.css";
+@import "../atoms/aside/person-name.css";
+@import "../atoms/aside/person-details.css";
+@import "../atoms/aside/aside-social-icon-item.css";
+@import "../atoms/main/main-description.css";
+@import "../atoms/main/main-title.css";
+@import "../atoms/main/button_efeitos.css";
+@import "../atoms/main/input.css";
+@import "../atoms/main/label.css";
+@import "../atoms/footer/footer-subtitle.css";
+@import "../atoms/main/thumb-fotos1.css";
+@import "../atoms/main/thumb-fotos2.css";
+@import "../atoms/main/thumb-fotos3.css";
+@import "../atoms/logo_profile_photo.css";
+@import "../atoms/zoom.css";
+@import "../atoms/footer/footer-icon.css";
+@import "../atoms/button-style.css";
+
+/* Molecules */
+@import "../molecules/navigation-links.css";
+@import "../molecules/aside-social-icon.css";
+@import "../molecules/main-about.css";
+@import "../molecules/main-contact.css";
+@import "../molecules/contact-form.css";
+@import "../molecules/description-block.css";
+@import "../molecules/main-projects-thumb-list.css";
+@import "../molecules/body_estilo.css";
+@import "../molecules/main-projects-thumb-list2.css";
+
+
+
+
+/* Pages */
+@import "../pages/grid.css";
+
+/* Organisms */
+@import "../organisms/nav.css";
+@import "../organisms/main.css";
+@import "../organisms/aside.css";
+@import "../organisms/footer.css";
+@import "../organisms/body.css";

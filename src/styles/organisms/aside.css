@@ -1,0 +1,9 @@
+.aside {
+    grid-area: aside;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(8, 3, 87);
+    flex-wrap: wrap;
+}
